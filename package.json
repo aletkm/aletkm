@@ -1,0 +1,30 @@
+{
+  "name": "profane-fb",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@apollo/client": "^3.4.8",
+    "@apollo/link-context": "^2.0.0-beta.3",
+    "bootstrap": "^5.0.2",
+    "fb": "^2.0.0",
+    "firebase": "^8.8.1",
+    "fs": "^0.0.1-security",
+    "next": "^11.1.0",
+    "react": "17.0.2",
+    "react-dom": "17.0.2",
+    "react-hook-form": "^7.15.3",
+    "react-icons": "^4.2.0",
+    "react-native-dotenv": "^3.2.0",
+    "reactstrap": "^8.9.0"
+  },
+  "devDependencies": {
+    "eslint": "7.32.0",
+    "eslint-config-next": "11.0.1"
+  }
+}
